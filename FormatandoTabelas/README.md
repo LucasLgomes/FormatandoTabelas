@@ -1,6 +1,5 @@
 # FormatandoTabelas
 Um pouco mais a fundo nos estudos HTML
-
 Hoje, aprendi algumas coisas interessantes sobre a criação de tabelas em HTML. Primeiro, aprendi a criar uma tabela básica para um cadastro de clientes. A tabela tinha duas colunas para o nome e sobrenome do cliente.
 
 Depois disso, aprendi sobre o atributo CELLPADDING em uma tabela HTML. Descobri que o CELLPADDING especifica o espaço entre os dados e a borda de uma célula. Isso foi muito útil para tornar a tabela mais legível e esteticamente agradável.
